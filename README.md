@@ -6,7 +6,6 @@ Check it out -> https://nutrismart-ayub.netlify.app/
 
 ## Features
 
-- AI-powered meal planning
 - Responsive design
 - Clean UI/UX
 - Modern animations
